@@ -1,0 +1,1 @@
+A modern Android app built in Kotlin using a multi-module architecture for better scalability and maintainability. Features include modularized news and search components, clean MVVM structure, Jetpack libraries, and optimized Gradle setup — showcasing best practices in Android development and project organization.
